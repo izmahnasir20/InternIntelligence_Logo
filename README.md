@@ -10,7 +10,7 @@ Description: A scalable and versatile logo design tested on white, light grey, a
 Goal: Ensure strong contrast, adaptability, and brand consistency across different sizes and color schemes.  
 Tools Used: Figma, screen recording tools  
 - *Preview:*  
-  ![Trend Map Logo](https://github.com/izmahnasir20/InternIntelligence_UIUXProjects/blob/main/Group%201.jpg?raw=true) 
+  ![Trend Map Logo](https://github.com/izmahnasir20/InternIntelligence_Logo/blob/main/Group%201.jpg?raw=true) 
 
 ## Tools & Skills
 Design Tool: Figma  
