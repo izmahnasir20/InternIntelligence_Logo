@@ -12,17 +12,6 @@ Tools Used: Figma, screen recording tools
 - *Preview:*  
   ![Trend Map Logo](https://github.com/izmahnasir20/InternIntelligence_UIUXProjects/blob/main/Group%201.jpg?raw=true) 
 
-### 2. Movie Recommendation & Review System (Dark Mode)
-Description: A mobile app design for discovering, reviewing, and saving movies.  
-Features:
-Personalized movie recommendations  
-Detailed movie pages (cast, similar movies, reviews)  
-Watchlist to save movies for later  
-Rating & review system with filters  
-Tools Used: Figma, UI/UX design principles  
-- *Preview:*  
-  ![Movie App](https://github.com/izmahnasir20/InternIntelligence_UIUXProjects/blob/main/Movie%20Recommendation%20App.jpg?raw=true)
-
 ## Tools & Skills
 Design Tool: Figma  
 Skills: UI/UX Design, Prototyping, Branding, Logo Design  
